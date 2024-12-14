@@ -10,6 +10,6 @@ In this repository, I will provide solutions for the puzzles using [Kotlin][kotl
 
 If you are stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
 
-- [Kotlin docs] 1 [docs]
+- [Kotlin docs] [docs]
 - [Kotlin Slack][slack]
 - Template [issue tracker][issues]
